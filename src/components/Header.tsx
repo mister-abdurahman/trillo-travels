@@ -1,4 +1,3 @@
-import {BiSearchAlt2} from 'react-icons/bi';
 import logo from '../assets/img/logo.png';
 import userPhoto from '../assets/img/user.jpg';
 import theSVG from '../assets/img/sprite.svg';
